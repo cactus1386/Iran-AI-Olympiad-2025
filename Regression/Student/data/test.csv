@@ -1,0 +1,480 @@
+StudentID,Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,Tutoring,ParentalSupport,Extracurricular,Sports,Music,Volunteering
+2005,15,1,Asian,Higher,0.1357634804717960,17,0,Moderate,0,1,1,1
+1197,16,1,Caucasian,Higher,1.9899245236127600,0,0,Low,1,0,0,1
+3343,15,0,Caucasian,,10.58871481082550,15,0,High,0,0,0,1
+2709,18,1,African American,Some College,16.20865827146340,1,0,High,1,0,0,0
+1436,18,0,Caucasian,,3.576821370155990,27,0,Low,0,1,0,0
+1322,15,1,Caucasian,High School,17.00635416315200,11,0,Very High,1,0,0,0
+2473,15,1,Caucasian,Some College,14.372074813803900,23,0,Very High,1,1,0,0
+2704,17,0,Caucasian,High School,4.286001446457570,14,1,Moderate,1,1,1,0
+1901,15,0,Caucasian,High School,12.190570195081300,13,1,Moderate,0,0,0,0
+2058,17,1,Caucasian,High School,11.808522062157800,23,0,Moderate,0,0,1,0
+3214,17,1,Asian,Bachelor,10.982880304829000,10,0,Moderate,0,1,1,0
+1576,16,0,African American,Some College,13.762353184127000,25,0,,1,0,0,0
+2164,16,1,African American,,15.701437231270300,7,0,High,1,1,0,0
+3315,17,1,Asian,High School,10.027019872674900,7,0,High,0,0,1,0
+1612,16,1,African American,High School,18.484368696853200,11,1,High,1,0,0,0
+1433,15,1,Caucasian,Some College,6.729007036350200,29,0,Moderate,1,0,0,0
+2736,18,0,Other,High School,15.538927767850400,22,0,Moderate,0,0,0,0
+2135,17,1,Other,High School,9.535077510166560,21,0,High,1,1,0,0
+2992,17,1,African American,High School,3.443885348515090,13,0,Low,1,1,1,0
+1651,17,0,Caucasian,Some College,18.88189571860730,16,1,Very High,1,1,0,0
+3103,15,1,Asian,High School,0.4743272061158120,6,0,Low,0,1,0,0
+2564,16,1,Asian,Higher,11.815074427061300,19,0,Moderate,1,0,1,0
+3027,17,0,Caucasian,Some College,11.985871326209600,17,1,Moderate,0,0,0,0
+1135,17,0,Caucasian,Some College,19.33731100586790,5,1,Moderate,1,0,0,0
+3154,15,0,Asian,Some College,16.193485161761500,18,0,High,0,0,1,0
+2360,17,0,Other,Bachelor,6.477911051607580,24,1,,0,0,0,0
+1941,18,1,Caucasian,High School,14.622059660071200,15,1,,0,0,0,0
+2558,17,0,Caucasian,Some College,9.083349403355280,8,0,Low,1,1,0,0
+1977,18,0,Caucasian,Some College,2.062935217567220,13,0,Very High,1,0,0,0
+2193,15,0,Caucasian,,12.366926140909100,17,0,High,0,1,0,0
+2138,16,1,Caucasian,Higher,12.102032444743000,18,1,Very High,0,0,0,0
+1446,17,0,Caucasian,Some College,11.31726147119240,29,0,Very High,0,1,0,0
+1343,17,1,Other,Some College,15.739515987624000,9,0,Very High,1,0,1,0
+1260,17,0,Caucasian,Some College,17.934930998154900,0,0,Low,0,0,0,0
+2761,18,0,Asian,Some College,1.7601205502290500,14,0,Moderate,0,0,0,0
+2654,17,0,Caucasian,High School,5.24225944033593,15,1,Moderate,1,0,0,0
+1354,18,1,Asian,,5.188983421361530,2,1,High,0,0,0,0
+3278,16,1,African American,Some College,3.778596275299050,4,0,High,1,0,0,1
+1566,16,0,Asian,Some College,3.278634419064060,4,1,Very High,1,0,0,0
+2897,16,0,Caucasian,Some College,8.457368181181740,25,0,Moderate,1,0,0,0
+3378,18,0,Caucasian,Some College,12.749976058683300,8,1,,1,1,0,0
+2114,17,1,African American,High School,10.207854426974100,2,0,High,1,1,0,0
+1255,15,1,Other,Some College,5.724486144799890,18,1,,0,0,0,0
+1431,15,0,African American,High School,3.75807177596833,12,0,High,1,1,0,0
+1799,15,1,Caucasian,Bachelor,10.32495646400120,24,0,Moderate,1,0,0,0
+2162,15,1,African American,High School,9.727442016502950,6,1,Low,0,0,0,0
+2661,17,0,Asian,Some College,10.061366452640600,7,1,High,1,0,0,0
+1472,18,0,African American,Some College,4.003084224987340,22,0,Moderate,1,1,0,0
+3292,18,1,Caucasian,High School,18.18530086910680,9,0,High,0,1,0,0
+2104,15,0,Caucasian,Bachelor,0.5289380519533490,15,1,Moderate,0,0,0,0
+1916,16,0,Caucasian,High School,8.866406415453970,4,1,Moderate,1,0,0,0
+1230,15,0,Asian,Some College,4.336285518582170,2,0,High,0,1,0,0
+2643,15,0,Caucasian,Bachelor,11.541066834270900,21,0,High,1,1,0,1
+1057,18,1,Caucasian,Higher,0.9213833935093520,20,0,Moderate,0,1,1,0
+3224,15,0,Caucasian,,0.4513939314688530,9,0,Low,0,0,0,0
+1966,15,0,Caucasian,Some College,14.070566803630600,2,1,Moderate,1,0,0,0
+3312,18,0,African American,Some College,3.7263355303706700,8,0,Very High,0,0,0,1
+3359,16,0,Caucasian,Some College,8.36766675426543,2,0,Very High,1,0,0,0
+1529,16,0,Caucasian,Bachelor,0.9832165831009630,20,0,Low,1,0,1,0
+3108,17,0,Caucasian,Bachelor,1.762531390011160,12,1,Moderate,0,1,0,0
+3181,18,0,Caucasian,High School,16.709723112865900,17,0,High,0,0,0,0
+2106,18,0,Asian,Some College,19.520403150489900,23,1,High,1,1,0,0
+3166,17,1,African American,,10.830125642449800,8,0,Moderate,0,0,0,0
+2250,18,0,Other,High School,6.185362229993910,12,0,,0,0,0,0
+2579,16,1,Other,High School,19.15670608897010,23,0,Low,0,0,1,0
+3030,18,0,Other,Some College,1.5216945353101500,7,0,High,0,0,0,0
+3268,18,1,Asian,Some College,7.598010446454080,0,1,High,0,0,0,0
+1686,16,0,Caucasian,High School,3.962614836471540,3,0,Low,0,0,1,1
+2776,18,1,Caucasian,Higher,16.481889809687500,22,0,Low,0,0,1,0
+1180,17,0,Other,Some College,15.209292125521300,1,0,High,1,0,0,1
+1112,17,1,Other,,5.670143805418790,2,1,Very High,0,0,1,0
+2743,16,0,African American,,8.875671585646710,25,0,High,1,0,0,0
+3012,15,0,Caucasian,High School,0.001056538645936,4,1,High,0,1,0,0
+1556,18,1,African American,,2.8225223659864400,4,0,Low,1,1,0,1
+2299,15,1,Asian,High School,17.465087133833500,27,0,Moderate,1,0,0,0
+2515,18,0,African American,Some College,8.560387048792880,3,0,Moderate,0,0,0,1
+2037,18,1,Asian,Bachelor,0.3167614188974840,16,0,Moderate,1,1,1,0
+2945,15,1,African American,Higher,17.782610714097200,26,0,Very High,1,1,1,0
+2227,17,0,Asian,Bachelor,11.66665819977040,28,0,Low,0,0,0,0
+1637,15,0,African American,High School,2.0678987326008300,20,1,High,1,0,0,0
+2450,18,0,Caucasian,High School,12.08977964516920,14,1,,0,1,0,1
+3178,18,0,Asian,High School,4.033104225337840,3,1,High,0,0,0,1
+2217,16,0,Other,Some College,19.18470870647640,14,0,High,0,0,0,0
+2232,18,1,Asian,Some College,4.830124537121230,17,0,High,1,0,0,0
+1931,17,0,Asian,Some College,3.970857177364030,17,0,High,0,0,0,0
+1801,15,0,Other,Some College,18.434533389033200,29,0,Low,0,0,0,0
+1045,18,1,Caucasian,High School,18.921512361376600,1,1,High,1,1,0,0
+1101,17,1,Asian,High School,6.029123728213360,23,1,Low,1,1,0,1
+3288,15,1,African American,Some College,9.74032081032479,15,0,,0,0,0,0
+1240,18,0,Asian,Some College,10.86811704396530,16,0,Low,1,0,1,0
+1427,15,0,Caucasian,Bachelor,11.604570643982800,8,1,Low,0,0,1,0
+2212,18,1,Caucasian,Some College,6.664834811014550,20,1,Moderate,1,0,0,1
+1465,18,1,Caucasian,Some College,9.000484790556050,23,0,Moderate,1,0,1,0
+2827,16,1,African American,Bachelor,14.498205436721700,27,1,,0,0,0,0
+3256,18,0,Caucasian,Some College,3.777403735257090,13,0,Moderate,0,0,0,0
+1523,16,0,Caucasian,Some College,6.879592726327400,19,1,Low,0,0,0,0
+1582,15,0,Asian,Higher,17.634346127907900,1,0,Moderate,0,0,0,1
+2006,15,0,Asian,High School,3.058863729508520,19,0,Moderate,0,0,1,1
+2428,17,0,Caucasian,High School,3.093696963697220,15,0,High,0,0,0,0
+1283,16,0,Asian,Some College,4.5041420043240300,16,0,Moderate,1,0,0,1
+1630,17,1,Caucasian,,2.1398252234924700,28,0,Low,1,0,1,0
+2911,18,1,Asian,Some College,7.980809040966080,11,0,Moderate,1,0,1,0
+1496,17,1,Caucasian,High School,11.22711648378680,24,1,High,0,0,1,0
+3368,15,1,Other,High School,9.381206804423070,18,0,High,0,0,1,0
+2806,17,0,Caucasian,Some College,12.973900850660700,27,0,High,1,0,1,0
+1603,18,1,Caucasian,Some College,17.94596991499480,15,0,High,1,0,0,0
+1174,18,1,Caucasian,Some College,18.81279998372230,9,0,Moderate,0,1,0,0
+2494,16,1,Other,High School,16.214609304608300,25,1,Moderate,0,1,0,0
+2291,15,0,Asian,High School,8.735543386466390,17,0,Low,1,0,0,1
+2976,15,0,Caucasian,High School,9.943076317657430,26,1,,0,1,1,0
+2791,15,0,African American,,11.8382880883814,16,0,High,0,0,0,0
+2605,18,1,Caucasian,High School,2.861627908346280,12,0,Moderate,1,0,0,1
+3184,16,0,Caucasian,High School,13.735355911943400,0,0,Moderate,1,0,0,0
+2660,18,1,African American,,0.8376078767755100,23,0,,1,0,0,0
+2442,16,1,Caucasian,Some College,1.95414550773517,29,1,Very High,0,0,0,0
+3056,17,0,Asian,Higher,2.45166313014366,19,0,Moderate,1,0,0,1
+3100,17,0,African American,Some College,6.7233067715916,11,0,,1,1,0,1
+3197,17,1,African American,High School,1.0012905418658900,0,0,Moderate,0,0,0,0
+1189,17,1,Caucasian,Some College,9.602698792767460,23,0,,1,1,0,0
+2387,15,0,African American,,13.122921836948800,14,0,High,0,0,0,0
+2431,15,1,Asian,Some College,13.74929608099460,25,0,,0,1,0,1
+2658,17,1,Caucasian,,10.230723884695800,5,0,Very High,0,0,1,0
+2024,16,0,African American,Higher,1.317843300639450,0,1,Moderate,0,0,1,0
+3088,15,1,African American,,12.665669646659900,26,1,Low,0,1,1,0
+2750,17,1,Caucasian,,11.886634678531900,17,1,High,0,0,1,0
+1975,18,0,Caucasian,Some College,10.684408198624900,23,1,Low,1,0,0,0
+1481,18,0,Asian,Higher,14.32650686952060,14,1,High,0,1,1,0
+2415,16,1,Caucasian,High School,16.947101078187300,23,0,,1,1,0,0
+1757,16,0,Asian,High School,11.934459802124300,17,1,High,0,1,0,0
+3142,16,0,Caucasian,,7.397772512962500,3,0,Low,1,0,0,0
+1614,16,0,Asian,Some College,11.628497897381700,23,1,,1,0,0,1
+3029,16,1,Caucasian,,18.656924427206000,0,1,Very High,1,0,0,1
+2771,17,0,African American,Some College,15.630462590661300,3,0,,1,0,0,0
+2607,16,1,African American,,6.177217984729260,27,0,Low,0,1,0,0
+1786,15,0,Asian,Higher,6.29866454917865,27,0,High,0,0,1,0
+1439,17,1,Caucasian,High School,4.905586099487350,24,0,Moderate,0,1,0,0
+1728,17,1,Caucasian,Bachelor,16.06266177872490,14,0,High,0,0,0,0
+2339,16,1,Caucasian,,6.386337600427480,27,0,Low,0,0,0,0
+2128,16,0,Caucasian,Bachelor,4.297092128499960,23,0,,0,0,0,0
+1618,18,0,Caucasian,Higher,13.045280118875400,17,0,,0,0,0,0
+2288,16,0,Caucasian,High School,16.070835536528600,12,1,Moderate,0,1,0,1
+1679,16,0,Asian,,9.91307841766494,15,0,Moderate,0,1,0,1
+2693,18,0,Caucasian,Some College,12.981612040377700,4,1,Moderate,1,0,0,0
+2770,15,1,Caucasian,,17.278716149199100,16,0,Moderate,0,0,0,1
+2371,17,0,African American,High School,16.060910493517600,5,1,Low,1,0,0,0
+2224,17,0,Caucasian,,19.13671335086130,22,0,Low,1,0,1,0
+2365,18,0,Caucasian,Some College,11.717042448663400,19,1,Moderate,0,0,0,0
+1483,15,1,Asian,High School,9.5398383075635,9,0,Moderate,0,0,0,0
+3225,18,1,Asian,High School,13.73854833548610,7,0,Very High,1,0,0,1
+1219,18,1,Asian,Bachelor,5.564343741376440,19,1,High,0,0,0,0
+2506,17,0,Asian,Some College,16.163140980484300,7,1,Very High,0,0,0,0
+1508,17,1,Caucasian,High School,9.648472031894580,21,0,Low,0,0,0,0
+3014,18,0,African American,High School,16.28417534109330,4,0,High,1,0,0,0
+3122,18,0,African American,,16.028336218172500,23,0,Very High,1,0,0,0
+1783,18,0,Caucasian,Some College,3.006212449679380,23,0,High,1,0,1,0
+1355,18,0,African American,Some College,1.6929750716925800,25,0,High,0,0,0,0
+2676,15,0,Other,High School,9.405924453831500,18,0,Moderate,0,0,1,0
+2019,18,1,Caucasian,High School,7.555936478188230,22,1,,0,0,0,0
+1811,17,1,Caucasian,High School,15.679050361956800,23,0,High,1,1,0,0
+3287,17,1,African American,High School,14.712853200227300,28,0,High,0,0,0,0
+2454,17,1,African American,Some College,13.735114405638200,17,0,Moderate,0,0,0,0
+1030,18,0,Caucasian,Some College,3.67159254710292,20,0,High,1,0,0,0
+2030,15,0,African American,High School,5.101744448427960,22,0,Low,0,1,1,0
+2383,17,0,African American,Some College,15.440635719447100,27,0,Moderate,0,1,0,0
+1200,17,1,Asian,Bachelor,1.573953503907980,28,0,High,1,0,0,0
+2088,18,1,Caucasian,High School,0.4397304407864720,28,0,High,1,1,0,0
+2799,17,1,Asian,Some College,8.592054868970940,23,0,Moderate,0,0,0,0
+1917,16,0,Caucasian,High School,11.717261010558400,19,0,Low,0,1,0,0
+2656,17,1,African American,Some College,8.214008011730860,5,0,Low,0,0,0,0
+3388,18,1,Caucasian,Bachelor,10.680554607694400,2,0,Very High,1,0,0,0
+3114,15,0,Caucasian,,4.430021017077050,15,0,Moderate,0,1,0,0
+2317,16,0,Caucasian,High School,9.373032739927700,0,0,Moderate,0,1,1,1
+3223,16,0,Caucasian,Some College,9.766698260086690,0,0,,0,1,0,0
+1212,17,0,Caucasian,Bachelor,19.517417255670700,23,0,Low,0,0,1,1
+2552,15,1,Caucasian,Some College,4.294890048167150,20,0,High,0,1,0,0
+3156,18,1,African American,High School,15.315685854314500,13,1,Very High,0,0,0,0
+2835,18,0,Caucasian,Some College,5.733211625740460,5,0,Low,0,0,0,1
+1238,16,0,Caucasian,Some College,16.50269751322840,25,1,Moderate,0,0,1,0
+1868,16,0,Asian,Some College,14.101265684107600,12,1,Low,1,0,0,0
+2182,18,0,Other,Bachelor,10.617180685769500,15,0,,0,1,1,0
+2950,17,1,Caucasian,High School,19.23524956690940,3,0,,1,0,0,0
+2777,16,0,Caucasian,High School,0.1064838114212850,14,0,Very High,0,0,0,0
+3171,17,0,Asian,Bachelor,15.048049074389300,25,0,Moderate,0,0,0,0
+2510,18,0,Caucasian,High School,11.709718766300700,5,1,High,0,0,0,0
+3365,18,1,Caucasian,Some College,3.73465988194742,1,1,,0,0,0,0
+1464,15,0,African American,Bachelor,0.4776838263828550,3,0,High,0,1,0,0
+1070,16,1,Asian,High School,0.941223957538948,1,0,Very High,0,0,1,0
+3219,18,0,Caucasian,Bachelor,7.560621244663900,12,0,,0,0,0,0
+1611,15,1,Caucasian,Some College,6.838689871494530,28,0,Low,1,0,0,0
+2057,18,1,African American,Some College,15.938950080312900,13,0,Low,1,0,0,0
+1368,16,0,Caucasian,High School,19.784333668411700,24,1,Low,0,1,0,0
+2509,18,1,Caucasian,Higher,6.738438261534910,13,1,Moderate,0,1,0,0
+1248,15,1,Asian,Some College,8.315496019793030,20,0,Moderate,1,0,0,0
+1097,16,1,African American,High School,12.831593624867900,29,0,Very High,0,0,1,0
+1280,16,1,Caucasian,High School,19.97809399526150,17,0,High,0,0,0,0
+2742,16,1,African American,Higher,16.583635598998400,23,0,High,0,0,0,1
+1809,16,0,African American,,8.773433936060980,16,1,Moderate,0,1,0,0
+2200,15,0,Caucasian,,7.762661620044990,9,0,,0,1,0,0
+1211,17,1,Asian,,1.894778295586880,3,0,Moderate,0,0,1,0
+2829,16,0,Caucasian,High School,12.600691550848800,7,0,Low,1,0,0,1
+1882,16,0,African American,Some College,4.689680135663400,18,0,High,0,1,0,0
+3109,17,0,African American,Bachelor,16.926360255617500,6,0,Moderate,1,1,0,0
+3371,18,1,Asian,High School,2.912574770509030,25,0,Low,0,1,0,1
+3334,15,0,Caucasian,,3.206180790311380,10,0,Low,1,1,0,1
+1597,15,0,Asian,High School,4.978870495937460,5,0,Very High,0,0,1,1
+2849,15,1,African American,Some College,10.352778713788700,15,1,Low,1,0,0,0
+2267,17,1,African American,Some College,13.080461553175200,28,0,Low,0,0,1,0
+1253,18,0,Caucasian,Some College,13.274687213878800,3,1,Low,1,0,0,0
+2477,17,1,African American,High School,4.555566832356030,13,1,Moderate,1,0,1,0
+1652,18,0,Caucasian,Some College,6.718923067578680,15,0,Low,1,0,0,0
+2671,16,1,Asian,Bachelor,18.66226442337310,24,1,Moderate,1,0,1,0
+2467,16,1,Caucasian,Some College,5.5089335958101800,24,0,High,1,1,0,0
+1545,15,1,Asian,Some College,11.081167669204200,14,1,Moderate,0,1,0,0
+1333,18,0,Caucasian,Some College,12.133786463957700,2,0,,0,0,0,0
+2918,16,0,Asian,Some College,14.043286572966200,7,1,,0,0,0,0
+1509,18,1,Caucasian,,1.8731490521494900,20,1,Low,0,0,0,0
+1480,18,1,Other,,15.06625863758510,3,0,Low,0,0,0,0
+1297,16,0,Caucasian,,17.415943446762300,10,1,Very High,0,1,0,0
+2974,18,0,African American,Some College,10.883602318839100,14,0,,1,1,0,0
+2935,17,0,Caucasian,High School,18.86596794491310,5,0,Moderate,0,0,0,0
+1583,18,0,Caucasian,Some College,17.836404228132300,27,0,Moderate,1,1,0,1
+2361,16,0,Caucasian,Some College,2.725011301839560,7,1,Moderate,0,0,0,0
+3128,17,1,Caucasian,Higher,10.10331423045470,1,0,High,1,1,0,0
+2966,15,1,African American,Some College,3.967450796954030,28,0,Moderate,1,1,0,0
+1633,15,0,Caucasian,High School,5.139045990169400,14,0,Moderate,0,0,0,0
+2971,15,0,Asian,,7.102635280514330,15,0,Moderate,1,0,0,0
+2286,16,1,Caucasian,High School,18.02971702201500,4,1,Low,1,0,0,0
+1565,18,0,Asian,Some College,12.07510287675230,8,0,High,1,0,0,0
+2434,18,1,Caucasian,High School,17.54978483462980,25,1,Moderate,1,0,0,0
+2246,18,0,Caucasian,High School,5.072849486827510,8,0,,0,1,0,0
+1743,16,1,Caucasian,Some College,2.2752391760909900,18,1,High,1,0,0,0
+2115,17,1,Other,Higher,19.388787513517600,16,0,Low,0,1,0,0
+1150,18,0,Asian,Some College,3.875782600467100,5,0,High,1,0,0,0
+1209,16,1,African American,High School,13.748737218817300,21,0,Low,0,0,0,0
+2642,15,1,Other,High School,7.144839363402720,1,0,Moderate,0,0,0,0
+3093,16,0,Caucasian,High School,2.9203381118421600,6,0,Moderate,1,0,1,0
+2718,17,0,African American,,9.876940294831230,29,0,High,1,0,0,1
+3258,16,1,Caucasian,High School,5.812859386130620,20,1,Low,0,0,0,0
+2196,15,1,Asian,Some College,8.740674508995420,2,0,Low,0,0,0,0
+1720,18,0,Caucasian,Some College,16.975351705626300,27,1,,1,0,0,1
+1510,16,1,Asian,,15.36178756837330,3,1,Moderate,1,1,0,0
+3176,17,0,Caucasian,Higher,6.954756711186310,24,1,Moderate,0,0,1,0
+1415,17,0,Asian,High School,3.8403250193589800,24,0,Low,0,1,0,0
+2622,16,0,Caucasian,Bachelor,10.135400814355800,8,0,Low,0,1,0,0
+2838,18,1,Caucasian,Some College,1.0455274454441100,16,0,Low,1,1,0,0
+2221,15,0,Caucasian,High School,11.794580721529300,29,0,High,0,1,0,0
+1252,15,0,African American,High School,6.192636200056920,7,0,Moderate,1,0,0,0
+3129,17,0,Asian,High School,14.960694786831800,26,0,Very High,1,0,1,1
+2657,16,1,Asian,High School,14.408321381846900,26,0,,0,0,0,0
+1408,18,0,Caucasian,Some College,2.403185174712440,16,0,Very High,1,0,0,0
+1351,18,0,Caucasian,Higher,11.707508455819100,17,0,,0,0,1,0
+2386,18,0,African American,High School,17.948381001563500,6,0,Moderate,0,0,1,1
+2792,16,0,Caucasian,Some College,14.72559797566840,12,0,High,1,1,0,0
+1671,15,1,African American,Some College,16.643249074582400,16,0,Moderate,1,0,0,0
+1531,15,0,Asian,Some College,11.083625108976000,8,1,,0,1,0,0
+1600,16,1,Asian,,0.514848194944324,15,1,Moderate,0,0,1,0
+1742,16,0,African American,,2.425297867182730,19,0,High,1,1,0,0
+1050,16,1,African American,High School,19.441069492469800,16,0,Very High,1,0,0,0
+1068,15,1,Caucasian,High School,10.638659551055800,28,0,,0,1,0,0
+2559,17,0,Caucasian,Some College,7.717188936722180,20,1,Moderate,1,1,0,0
+1049,16,0,African American,Some College,17.90170345532630,17,0,High,0,0,1,0
+3186,17,0,Caucasian,Some College,16.6050038556277,28,0,,0,1,0,0
+3134,15,1,Caucasian,Bachelor,7.027118693098540,20,1,Moderate,1,1,0,0
+3232,15,0,African American,Bachelor,10.69601953838340,27,1,Low,1,0,0,0
+2808,15,0,African American,High School,11.06855401574140,14,0,High,0,0,0,0
+1125,15,0,Caucasian,Some College,2.5807281777885000,1,1,Moderate,1,0,1,0
+3201,15,1,African American,Bachelor,13.906378992487700,8,0,,1,0,1,0
+2941,17,0,Caucasian,Some College,12.056150645335200,24,0,Moderate,0,0,0,1
+1830,18,1,Caucasian,High School,7.274510422713690,5,0,Moderate,0,0,0,0
+2134,17,0,Caucasian,Some College,10.170777829954200,7,0,,0,0,0,0
+1943,18,0,Asian,High School,3.434199779473760,19,0,Low,1,0,1,0
+3177,18,1,Caucasian,Some College,17.528418872089900,3,0,High,0,0,1,0
+1982,18,0,African American,Some College,7.6991744527511400,16,0,Moderate,0,0,1,0
+2830,15,1,African American,,6.811518748422370,14,0,,0,1,0,0
+2449,16,1,African American,Some College,0.4080322137641270,18,0,High,1,0,0,0
+2413,15,1,Caucasian,High School,10.261544367361000,7,0,Low,1,0,0,1
+2857,15,0,African American,Some College,7.27798812990665,20,0,Moderate,0,0,0,0
+1730,18,0,Caucasian,Some College,19.8418437405764,19,0,Very High,0,0,0,0
+1880,15,0,Caucasian,Some College,7.95269971465506,25,0,,0,0,0,0
+3096,17,1,Caucasian,High School,10.437689238549600,6,0,Moderate,0,1,0,0
+1241,16,0,Caucasian,Bachelor,6.095218255946520,2,1,Moderate,0,1,0,0
+1071,16,0,African American,Some College,13.370933902279700,6,0,Moderate,1,0,0,0
+1756,16,0,African American,Some College,15.385011184831700,12,0,Low,0,0,0,0
+1933,15,0,Asian,High School,14.846204910674500,22,1,High,0,0,0,0
+1074,16,0,Caucasian,Bachelor,16.24827315247800,4,1,Moderate,0,0,0,0
+1462,15,1,Other,Some College,12.46628867518120,10,0,Moderate,0,0,0,1
+3213,16,1,Asian,Some College,9.242809465398020,23,1,High,1,0,0,0
+2834,17,1,Asian,High School,11.59072738299960,15,0,,0,0,0,1
+3307,16,1,Caucasian,,12.283674479690800,26,0,Moderate,0,1,0,0
+1638,17,0,African American,High School,8.630162396952850,25,0,Low,0,0,0,1
+1528,16,1,Caucasian,Some College,7.105792864386380,0,0,Moderate,1,1,1,0
+1928,18,1,Asian,Higher,0.9483127228016980,16,1,High,0,1,1,0
+1158,16,0,Caucasian,Some College,10.369859498844800,6,0,Moderate,0,0,0,0
+1606,17,0,Caucasian,Bachelor,0.6164923739874050,19,0,Moderate,0,1,0,1
+2862,16,1,African American,Some College,16.922383711102200,12,0,Moderate,1,1,0,0
+2805,15,0,Caucasian,High School,15.097450578171200,25,1,Moderate,1,0,0,0
+1423,16,1,African American,Bachelor,19.94845878107110,7,0,High,0,0,0,0
+2831,16,0,Asian,High School,6.023180395708910,17,1,Moderate,0,0,0,1
+3053,16,1,Caucasian,High School,7.678977885259450,27,0,Low,0,0,0,0
+1409,18,1,Asian,Some College,10.691090895120800,4,0,Moderate,1,0,0,0
+2069,15,1,Caucasian,Bachelor,6.659004939247470,3,0,,1,1,0,0
+1052,16,1,Asian,,2.200354422550870,12,1,Low,1,0,1,0
+1403,17,1,Caucasian,Some College,18.332862053878300,27,0,High,0,1,0,0
+2045,16,0,Caucasian,High School,17.425539762423100,1,0,Moderate,1,0,0,0
+3293,17,1,Asian,Some College,10.243399118677700,13,1,Low,1,1,0,1
+2445,17,0,Other,Some College,19.92025566764500,12,1,High,0,0,0,0
+3227,17,0,Caucasian,High School,11.197862030719000,28,0,Moderate,0,1,0,0
+2264,17,1,Caucasian,Some College,8.278521161051780,12,1,Low,1,1,1,0
+2749,17,1,Caucasian,Bachelor,3.1500109615160800,25,1,High,0,0,0,0
+1292,17,0,Caucasian,Some College,13.015766416938000,18,0,Very High,1,0,0,0
+2551,15,1,Caucasian,High School,8.076220104949990,20,0,High,1,0,0,0
+1835,15,0,Caucasian,Some College,16.78816075218540,15,0,Low,0,0,0,0
+1856,15,0,Caucasian,,12.844192740053900,25,1,Low,0,0,0,0
+3300,18,0,Caucasian,Some College,16.303604639397800,24,0,Low,0,1,0,1
+2837,16,1,Caucasian,High School,1.677959212578190,20,0,Moderate,0,0,0,0
+1533,15,1,Caucasian,High School,10.7475838088771,18,0,Moderate,0,0,1,0
+1388,17,0,Caucasian,Some College,14.4123258132743,7,0,Very High,0,0,1,0
+2562,18,0,Caucasian,,1.599649655935100,7,0,Moderate,0,1,0,0
+3044,17,0,Caucasian,High School,2.5499945334397100,4,0,Moderate,0,1,0,0
+2310,18,1,African American,Some College,15.3152664209508,16,0,Moderate,0,1,0,0
+1300,18,0,African American,High School,9.943345614353710,12,1,Low,0,0,0,0
+2784,16,0,Other,Some College,17.06345957293450,22,0,High,0,0,0,0
+1417,15,0,Caucasian,High School,14.49825493248880,17,1,Moderate,1,0,0,0
+1487,17,0,African American,High School,15.557554110737500,15,1,Moderate,1,0,0,0
+1441,15,0,Caucasian,High School,6.410723336129910,2,1,Low,0,0,0,1
+1655,16,1,Caucasian,,4.009380955327180,18,1,Low,1,0,0,0
+3274,16,1,Asian,High School,6.373945145707950,26,1,High,0,1,0,0
+1221,17,1,Caucasian,Bachelor,3.2499683094888300,22,0,High,1,1,0,1
+2085,16,0,Other,Bachelor,1.7119910564553700,4,0,High,0,0,0,0
+1650,15,1,Other,,17.13459893011800,22,0,Low,0,0,0,0
+1622,16,0,Caucasian,Bachelor,3.290507447856250,12,0,Low,1,0,1,0
+2877,15,0,Asian,Some College,0.815700268710362,1,0,Low,0,0,1,1
+1085,17,1,Caucasian,Some College,5.125847507384350,12,0,High,1,1,0,0
+1862,15,0,Caucasian,High School,17.1021884399488,7,0,Low,1,0,0,0
+2872,15,0,Caucasian,Some College,11.426400308662100,3,1,High,0,0,0,0
+2430,17,1,Caucasian,High School,8.160401825701620,5,1,,0,0,0,0
+1110,17,0,Asian,High School,10.081401594968500,12,1,Very High,0,0,0,0
+2968,18,0,Caucasian,Some College,10.229350800852300,21,0,High,1,0,1,0
+1760,17,1,Caucasian,Bachelor,2.43778424160718,28,1,High,1,0,0,0
+1291,15,1,Caucasian,Higher,16.732404207353200,20,1,Very High,0,1,1,0
+1945,15,1,Other,High School,5.799747852882840,19,0,High,0,0,0,1
+3148,15,1,Caucasian,,8.57450283502963,16,0,High,0,0,0,0
+3376,18,0,Caucasian,Some College,18.92528986006160,24,0,Low,1,0,1,1
+2015,15,1,Asian,Higher,17.467829158184400,19,1,Low,0,1,0,0
+3036,16,1,Caucasian,Some College,18.839828937677400,17,0,High,0,0,1,0
+2926,15,1,Caucasian,Bachelor,15.84006252260390,11,0,High,0,1,0,0
+2256,16,0,Caucasian,Bachelor,11.75406456682950,4,1,Moderate,0,0,0,0
+3317,16,1,Asian,,6.969559515913110,0,1,Moderate,0,0,0,0
+3067,18,0,Caucasian,High School,13.97271178863910,25,0,High,1,0,0,0
+1213,15,0,Caucasian,High School,5.7251807076636600,1,0,High,1,0,0,0
+1673,16,1,African American,High School,2.369234101889640,0,1,Moderate,1,0,0,0
+2322,17,1,African American,High School,11.112343093648100,11,0,High,0,0,0,0
+2125,16,0,Caucasian,High School,15.765504163416600,15,0,High,0,0,0,0
+1411,17,1,Other,High School,8.34896567792925,8,0,High,0,1,0,0
+3384,16,1,Asian,Some College,11.736408901471300,18,1,Very High,0,0,0,0
+2038,17,1,African American,Some College,11.156202514708700,17,0,High,0,1,1,1
+3101,17,0,African American,Bachelor,5.805673546295210,6,0,Moderate,0,0,0,0
+2421,15,1,Caucasian,,10.592890540702700,22,0,Moderate,1,1,0,0
+1019,18,0,African American,Bachelor,16.25465808609360,29,0,Moderate,1,0,0,1
+1362,15,1,Caucasian,Bachelor,7.019512478521830,9,0,Low,1,0,0,1
+2584,18,0,Other,High School,9.837519189216480,10,1,High,0,0,0,1
+1631,15,1,African American,,14.389199353399400,3,1,Low,0,0,0,0
+1994,18,1,Asian,High School,3.8958760528785400,8,0,Moderate,0,1,0,0
+3361,18,0,African American,Bachelor,12.684861819550900,20,0,Moderate,0,0,0,0
+2333,17,0,Caucasian,Some College,18.31886007908110,18,0,Moderate,1,0,0,0
+1077,18,0,Caucasian,Some College,5.305701781721050,3,0,High,0,0,0,0
+2732,17,1,Other,High School,12.57442774051160,0,1,High,1,0,0,0
+1479,15,1,Asian,Some College,15.048184664240200,9,0,High,0,0,0,0
+3358,17,0,Asian,High School,16.89418334151730,10,0,High,0,0,0,1
+2312,16,1,Asian,Some College,10.277516695564700,12,0,High,0,0,0,0
+1857,17,0,Asian,Some College,4.912631480976290,26,0,Very High,0,0,0,0
+1169,17,1,Asian,Some College,10.251524318484200,14,0,High,1,0,0,0
+1444,18,0,Other,Bachelor,8.760673133952940,13,0,High,1,1,1,0
+2358,17,1,Asian,High School,15.746976968194100,12,0,Very High,1,1,0,0
+2222,16,0,Asian,Higher,8.998255621710110,12,0,Very High,1,1,0,0
+2412,16,1,Other,High School,15.255981057516100,23,0,Moderate,0,0,0,1
+1220,17,1,Caucasian,High School,1.232159705849390,17,0,High,0,0,0,0
+3212,17,1,Caucasian,Some College,5.319481293082240,12,0,Very High,0,1,0,0
+3339,18,1,Caucasian,Some College,12.475443813017100,1,1,Moderate,1,0,1,0
+2357,18,0,Caucasian,Some College,11.140951723844700,24,0,High,0,0,0,1
+1304,16,1,African American,,8.934790506227860,15,0,Very High,0,0,0,0
+2566,17,0,Caucasian,Some College,8.3751798096531,9,0,High,0,0,0,0
+1932,18,1,African American,High School,9.896569132428400,27,0,High,0,0,1,0
+3155,18,1,Caucasian,Some College,13.91355326430680,6,0,High,1,0,0,0
+2180,17,1,African American,Some College,6.345104328994,7,1,Moderate,0,0,1,1
+1451,16,0,Other,Some College,17.7937482514333,24,0,High,1,1,0,1
+1810,15,0,African American,Higher,15.640036511878800,13,1,Moderate,0,0,0,0
+3065,17,0,African American,Some College,6.694706531585580,13,0,High,0,0,0,0
+2751,18,1,Caucasian,,11.872210888928300,9,0,High,1,0,0,0
+2174,17,1,Asian,High School,12.932422673151100,17,0,High,0,0,0,0
+2873,17,0,African American,High School,19.062492250159300,11,0,High,0,0,0,0
+1369,17,1,Caucasian,Bachelor,3.3365940990052600,20,1,Low,0,0,0,0
+1232,18,1,Other,High School,19.41336055587740,25,0,Moderate,0,0,0,0
+2993,17,0,Asian,Some College,5.41926415742439,6,0,Low,0,0,0,0
+1136,15,0,Other,High School,10.531898851795800,12,0,Moderate,1,0,0,0
+1026,16,1,Caucasian,Bachelor,2.7103374712150800,5,0,Very High,0,0,1,0
+3230,18,0,Asian,High School,8.143474771977510,5,1,Low,1,0,0,1
+2152,15,1,Caucasian,Some College,18.061950140986200,7,1,Moderate,0,0,1,0
+1893,15,0,Caucasian,Some College,8.982468278605020,11,1,Low,0,0,0,0
+2933,15,1,Asian,,4.452984704535710,6,0,Very High,1,0,0,0
+2745,16,1,Asian,High School,10.541418770269200,9,0,High,0,0,0,0
+1193,15,0,African American,High School,3.781553075566980,9,0,Moderate,1,0,0,0
+1290,18,0,Asian,,7.67069024867954,5,0,Low,0,0,0,0
+1473,17,1,Caucasian,,6.391788525199970,6,1,Moderate,1,0,1,0
+1619,17,1,African American,Higher,14.54262393763860,15,0,High,1,0,1,0
+2363,15,1,Caucasian,Some College,9.41524784775206,5,1,Low,0,0,0,0
+2722,17,1,Caucasian,Bachelor,11.571706971859000,25,0,High,1,0,0,0
+3144,15,0,African American,Some College,14.507792033236700,3,0,Low,1,1,0,0
+2068,17,1,African American,Higher,8.234953351804860,8,0,Low,0,0,0,0
+2481,17,0,Caucasian,Bachelor,10.743386432080600,0,0,Low,1,0,0,1
+1129,18,0,African American,Some College,0.8117142426939020,12,1,Low,1,1,0,0
+3002,18,1,Caucasian,Bachelor,15.958863785066,16,0,,1,0,0,1
+2511,17,1,Other,Bachelor,6.31307253964648,9,0,Moderate,0,0,0,1
+1766,17,0,Caucasian,High School,12.820121146414000,10,1,Low,0,1,0,0
+1914,16,0,Caucasian,Some College,17.684903478579100,4,0,High,1,0,0,0
+1234,18,1,Other,High School,11.942332400310100,13,0,Moderate,0,1,0,1
+2331,16,1,Other,High School,0.0082057887834974,26,0,Moderate,1,0,0,0
+1308,16,1,Asian,,9.926455425687580,4,0,Very High,0,1,0,1
+2323,15,0,Other,Some College,3.4028548035431600,4,0,Low,1,1,1,1
+1434,18,1,Asian,Some College,4.224165171759030,19,0,High,0,1,1,0
+1384,15,1,Caucasian,High School,16.21207696520320,20,0,High,0,0,0,0
+2147,17,1,African American,,4.121475598743510,14,0,Low,1,0,0,0
+1938,15,1,African American,Some College,13.267252219129900,14,1,High,0,0,0,0
+3216,16,1,Caucasian,Some College,19.972346383287700,18,0,Moderate,1,0,0,0
+2341,17,0,Caucasian,Bachelor,19.11837599924090,26,0,High,0,1,1,0
+1178,17,0,Other,High School,10.889226642983400,25,1,Moderate,1,0,1,0
+2574,16,1,Asian,Some College,2.0205649298251700,23,0,Low,0,1,0,0
+1599,18,1,Caucasian,High School,6.684306745202290,4,0,,0,0,0,0
+2086,15,0,African American,Some College,3.669157695177300,11,1,Moderate,0,0,0,0
+1185,15,0,Other,Higher,14.089872728233700,3,0,High,0,0,0,0
+2290,15,1,Caucasian,Some College,5.053260043425650,1,0,Low,0,0,1,0
+2233,15,1,Caucasian,High School,10.194463432071300,14,0,,0,0,0,0
+2801,17,1,Caucasian,Some College,6.574919766992130,11,0,Low,0,0,0,0
+2565,17,0,Other,Some College,11.987271034765300,1,0,Moderate,0,0,0,0
+1299,15,1,African American,Bachelor,7.965004697268260,13,1,High,0,1,0,0
+2698,17,1,Caucasian,Some College,0.0871915991316085,6,0,Low,0,1,0,0
+1808,15,1,Caucasian,Some College,4.394455002207940,16,0,Moderate,0,0,0,1
+2362,16,0,African American,High School,17.751261436323800,4,1,High,1,0,0,0
+3126,16,1,Asian,Some College,9.901118913091700,9,0,High,0,0,0,0
+1486,16,1,Caucasian,High School,12.429288453135700,21,1,High,0,0,1,0
+2190,18,0,Asian,Bachelor,15.272209592283200,18,0,Moderate,0,0,0,0
+2919,17,0,Caucasian,High School,10.264399516556400,8,1,High,1,1,0,0
+1179,15,1,Caucasian,High School,3.368811022638310,2,0,Moderate,1,0,0,0
+2035,15,1,African American,Bachelor,3.480208960322480,1,1,Low,0,0,0,0
+1325,16,1,African American,Some College,10.857562647216100,5,1,Low,0,1,0,0
+2208,16,0,African American,Some College,17.05077481711930,6,0,High,0,1,0,0
+1950,15,1,African American,Some College,0.0048586886902546,18,1,Low,0,0,0,0
+2337,17,0,Caucasian,,14.252028145967900,8,0,High,0,0,0,0
+3041,15,0,Caucasian,High School,10.737364359412000,24,0,,0,1,0,0
+1119,18,1,Caucasian,High School,3.214266983819710,26,0,High,0,1,0,0
+2139,18,1,Caucasian,High School,7.914896596947090,8,0,Low,1,0,0,1
+2136,17,1,Asian,Some College,5.413492119305790,24,0,High,0,0,0,0
+1282,18,0,Caucasian,,8.094117486583400,8,1,High,0,0,1,0
+3207,17,1,Caucasian,Bachelor,11.561500983696600,10,0,,1,0,0,0
+3046,18,1,Asian,Some College,11.78534677513330,1,0,Very High,0,1,0,0
+3211,15,0,Other,Bachelor,18.24970108460740,18,1,Moderate,0,0,0,1
+2730,16,0,African American,Some College,12.535676341036900,24,1,Moderate,0,0,1,0
+2884,15,0,African American,Some College,4.023459342278020,25,0,Moderate,1,1,1,0
+2117,17,0,Asian,Some College,1.4183238287713900,24,0,High,0,0,0,0
+2403,15,0,Caucasian,Some College,6.890117867881270,11,0,High,1,0,0,0
+2191,17,1,Caucasian,High School,8.946648533323760,22,0,,0,1,1,0
+2721,16,1,Caucasian,,6.441611506325320,26,0,Moderate,0,1,0,1
+2534,15,1,Caucasian,Some College,14.471614008799600,25,0,Low,0,0,0,0
+2384,18,1,Other,Higher,16.564255157731900,21,0,Moderate,0,1,1,0
+1367,16,1,Asian,High School,11.818321856544500,8,0,,0,0,0,0
+2815,18,1,African American,Bachelor,5.043639636385390,29,1,Moderate,1,0,0,0
+2899,18,0,African American,Bachelor,7.399977719199550,26,0,Low,0,0,0,0
+1044,18,1,Caucasian,High School,18.24509122202310,9,0,Moderate,0,1,0,0
+2883,15,0,African American,High School,4.40219660038327,2,0,Moderate,1,1,0,1
+2889,17,1,Caucasian,High School,10.087614085975300,8,0,Very High,0,0,0,1
+2271,16,1,Caucasian,Bachelor,11.301445660733900,24,0,Very High,1,1,0,0
+1204,15,1,Asian,Some College,1.784443361144770,12,0,Moderate,1,0,0,0
+1175,18,1,Caucasian,High School,6.586425549650090,20,1,Low,1,0,0,0
+1421,16,0,African American,Higher,4.188134278998670,20,1,Moderate,0,1,0,0
+1987,18,1,Caucasian,Some College,8.412604737576390,16,0,High,0,1,0,0
+1121,18,1,Caucasian,Bachelor,3.170404680548190,12,1,Low,1,1,0,0
+1284,17,0,Caucasian,High School,5.141921787902240,5,1,Low,0,0,0,0
+2741,18,1,African American,,10.281613912385500,10,0,High,1,0,0,0
+2727,18,1,Caucasian,,15.610436055140400,26,0,High,0,0,0,0
